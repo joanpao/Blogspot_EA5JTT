@@ -1,6 +1,6 @@
 # SONOTRIGGER-SOFTWARE and EA5JTT Blogs Index
 
-Comprehensive index of technical articles, projects, and radiofrequency research from the [SONOTRIGGER-SOFTWARE](https://sonotrigger-software.blogspot.com/) and [EA5JTT](https://ea5jtt.blogspot.com/) blogs.
+Comprehensive index of technical articles and radiofrequency research.
 
 > [!IMPORTANT]
 > All software developments and source code can be found at:
@@ -12,7 +12,7 @@ Comprehensive index of technical articles, projects, and radiofrequency research
 
 ### Active Components
 * **RX Amplifiers (Low Noise - LNA):**
-  * [Reception Preamps / LNA (SPF5189Z)](https://sonotrigger-software.blogspot.com/2023/09/preamplificadores-apra-sdr-basados-en.html)
+  * [Reception Preamps / LNA](https://sonotrigger-software.blogspot.com/2023/09/preamplificadores-apra-sdr-basados-en.html)
   * [RF AMP (LNA)](https://sonotrigger-software.blogspot.com/2023/10/amplificadores-de-rf-lna.html)
   * [RF AMP02A](https://sonotrigger-software.blogspot.com/2023/12/rf-amp02a.html)
   * [TQP3M9037 LNA - RF AMP 04A](https://sonotrigger-software.blogspot.com/2024/02/tqp3m9037-lna-rf-amp-04a.html)
@@ -21,16 +21,16 @@ Comprehensive index of technical articles, projects, and radiofrequency research
   * [Linear / Power Amplifiers](https://sonotrigger-software.blogspot.com/2024/01/amplificadores-lineales-o-de-potencia.html)
 * **Frequency Converters:**
   * [Frequency Converters](https://sonotrigger-software.blogspot.com/2023/10/conversores-de-frecuencia.html)
-  * [SPYVERTER (Up-converter)](https://sonotrigger-software.blogspot.com/2024/08/probando-un-up-converter-spyverter.html)
+  * [SPYVERTER](https://sonotrigger-software.blogspot.com/2024/08/probando-un-up-converter-spyverter.html)
 
 ### Passive Components
 * **Filters:** [Stub Filters](https://sonotrigger-software.blogspot.com/2023/10/filtros-con-stub.html), [RF Filters](https://sonotrigger-software.blogspot.com/2023/10/filtros-de-rf.html), and [868 MHz Band-Pass Filters](https://sonotrigger-software.blogspot.com/2024/02/filtros-pasa-banda-y-amplificadores-de.html).
-* **RF Tools:** [RF Attenuators](https://sonotrigger-software.blogspot.com/2023/10/atenuadores-de-radiofrecuencia.html), [Duplexer - Diplexer (VHF-UHF)](https://sonotrigger-software.blogspot.com/2023/11/duplexor-diplexor-vhf-uhf.html), and [RF Power Splitter](https://sonotrigger-software.blogspot.com/2023/11/divisor-de-potencia-de-rf-splitter.html).
+* **RF Tools:** [RF Attenuators](https://sonotrigger-software.blogspot.com/2023/10/atenuadores-de-radiofrecuencia.html), [Duplexer - Diplexer](https://sonotrigger-software.blogspot.com/2023/11/duplexor-diplexor-vhf-uhf.html), and [RF Power Splitter](https://sonotrigger-software.blogspot.com/2023/11/divisor-de-potencia-de-rf-splitter.html).
 
 ### Connectivity & Power
 * **Connectors:** [USB](https://sonotrigger-software.blogspot.com/2023/10/usb.html), [SMA, IPX & JST](https://sonotrigger-software.blogspot.com/2023/10/conectores-sma-ipx-y-jst.html), and [TV, F, N, BNC, UHF Connectors](https://sonotrigger-software.blogspot.com/2023/12/conectores-tv-f-n-bnc-uhfpl259so239-sma.html).
 * **RF Lines:** [Lightning Protection](https://sonotrigger-software.blogspot.com/2024/01/protectores-contra-descargas.html), [Feed Lines](https://sonotrigger-software.blogspot.com/2024/01/lineas-de-alimentacion-de-rf.html), [Ferrites](https://sonotrigger-software.blogspot.com/2023/12/ferritas-en-cables-de-alimentacion.html), and [Coaxial Cables](https://sonotrigger-software.blogspot.com/2023/10/cables-coaxiales.html).
-* **Powering:** [PSU & Chargers](https://sonotrigger-software.blogspot.com/2023/10/fuentes-de-alimentacion-y-cargadores.html), [Batteries (Li-ion/Alkaline)](https://sonotrigger-software.blogspot.com/2023/10/baterias-salinas-alcalinas-y-de-li-ion.html), [Bias-Tee](https://sonotrigger-software.blogspot.com/2023/10/bias-tee.html), [PoE](https://sonotrigger-software.blogspot.com/2023/11/poe.html), and [UPS/SAI](https://sonotrigger-software.blogspot.com/2024/01/sai.html).
+* **Powering:** [PSU & Chargers](https://sonotrigger-software.blogspot.com/2023/10/fuentes-de-alimentacion-y-cargadores.html), [Batteries](https://sonotrigger-software.blogspot.com/2023/10/baterias-salinas-alcalinas-y-de-li-ion.html), [Bias-Tee](https://sonotrigger-software.blogspot.com/2023/10/bias-tee.html), [PoE](https://sonotrigger-software.blogspot.com/2023/11/poe.html), and [UPS/SAI](https://sonotrigger-software.blogspot.com/2024/01/sai.html).
 
 ---
 
@@ -51,7 +51,7 @@ Comprehensive index of technical articles, projects, and radiofrequency research
 
 ### ATS-mini (SI4732)
 * [First Steps](https://sonotrigger-software.blogspot.com/2023/11/ats-mini-primeros-pasos.html)
-* [Deep Dive (Deepening)](https://sonotrigger-software.blogspot.com/2023/11/ats-mini-profundizando.html)
+* [Deep Dive](https://sonotrigger-software.blogspot.com/2023/11/ats-mini-profundizando.html)
 * [Remote Control](https://sonotrigger-software.blogspot.com/2024/04/ats-mini-control-remoto.html)
 * [ATS-mini SI4732: WSPR RX Standalone](https://sonotrigger-software.blogspot.com/2024/01/ats-mini-si4732-wspr-rx-standalone.html)
 
@@ -107,7 +107,7 @@ Comprehensive index of technical articles, projects, and radiofrequency research
 * **Radio Stations:** [RNE (Radio Exterior)](https://sonotrigger-software.blogspot.com/2023/10/rne.html), [UVB-76 (The Buzzer)](https://sonotrigger-software.blogspot.com/2023/10/uvb-76.html), [Polar Stations](https://sonotrigger-software.blogspot.com/2023/12/estaciones-polares.html), and [Time/Signal Stations](https://sonotrigger-software.blogspot.com/2023/11/emisoras-de-senales-y-tiempo.html).
 * **Educational (Learning Units):**
   * [Aerospace Science with TinyGS](https://sonotrigger-software.blogspot.com/2024/11/unidades-didacticas.html)
-  * [Programming with Arduino & ESP32](https://sonotrigger-software.blogspot.com/2024/11/unidades-didacticas.html)
+  * [Arduino & ESP32 Programming](https://sonotrigger-software.blogspot.com/2024/11/unidades-didacticas.html)
 * **Workshops & Talks:**
   * [TinyGS, WSPR, and ATSmini Workshops](https://sonotrigger-software.blogspot.com/2024/11/charlas-y-talleres.html)
 * **Summaries:** [2023 Summary](https://sonotrigger-software.blogspot.com/2023/12/resumen-2023.html), [2024 Summary](https://sonotrigger-software.blogspot.com/2024/04/resumen-2024.html), and [Learning in 2025](https://sonotrigger-software.blogspot.com/2025/01/resumen-2025.html).
