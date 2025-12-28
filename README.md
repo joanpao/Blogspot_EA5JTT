@@ -20,12 +20,12 @@ Comprehensive index of technical articles, projects, and radiofrequency research
 * **TX Amplifiers (Power/Linear):**
   * [Linear / Power Amplifiers](https://sonotrigger-software.blogspot.com/2024/01/amplificadores-lineales-o-de-potencia.html)
 * **Frequency Converters:**
-  * [Frequency Converters (General)](https://sonotrigger-software.blogspot.com/2023/10/conversores-de-frecuencia.html)
-  * [SPYVERTER Testing](https://sonotrigger-software.blogspot.com/2024/08/probando-un-up-converter-spyverter.html)
+  * [Frequency Converters](https://sonotrigger-software.blogspot.com/2023/10/conversores-de-frecuencia.html)
+  * [SPYVERTER](https://sonotrigger-software.blogspot.com/2024/08/probando-un-up-converter-spyverter.html)
 
 ### Passive Components
 * **Filters:** [Stub Filters](https://sonotrigger-software.blogspot.com/2023/10/filtros-con-stub.html), [RF Filters](https://sonotrigger-software.blogspot.com/2023/10/filtros-de-rf.html), and [868 MHz Filters + LNA](https://sonotrigger-software.blogspot.com/2024/02/filtros-pasa-banda-y-amplificadores-de.html).
-* **RF Accessories:** [RF Attenuators](https://sonotrigger-software.blogspot.com/2023/10/atenuadores-de-radiofrecuencia.html), [Duplexer - Diplexer (VHF-UHF)](https://sonotrigger-software.blogspot.com/2023/11/duplexor-diplexor-vhf-uhf.html), and [RF Power Splitter](https://sonotrigger-software.blogspot.com/2023/11/divisor-de-potencia-de-rf-splitter.html).
+* **RF Accessories:** [RF Attenuators](https://sonotrigger-software.blogspot.com/2023/10/atenuadores-de-radiofrecuencia.html), [Duplexer - Diplexer](https://sonotrigger-software.blogspot.com/2023/11/duplexor-diplexor-vhf-uhf.html), and [RF Power Splitter](https://sonotrigger-software.blogspot.com/2023/11/divisor-de-potencia-de-rf-splitter.html).
 
 ### Connectivity & Power
 * **Connectors:** [USB](https://sonotrigger-software.blogspot.com/2023/10/usb.html) and [SMA, IPX & JST](https://sonotrigger-software.blogspot.com/2023/10/conectores-sma-ipx-y-jst.html).
@@ -59,13 +59,12 @@ Comprehensive index of technical articles, projects, and radiofrequency research
 ### ESP32 & IoT
 * **Projects:** [PAXCOUNTER](https://sonotrigger-software.blogspot.com/2023/12/paxcounter.html), [Disaster Radio](https://sonotrigger-software.blogspot.com/2024/01/disaster-radio.html), [Meshtastic](https://sonotrigger-software.blogspot.com/2023/12/meshtastic.html), and [TinyGS](https://sonotrigger-software.blogspot.com/2024/01/tinygs.html).
 * **Hardware:** [Lilygo ESP32 Projects](https://sonotrigger-software.blogspot.com/2024/02/proyectos-con-lilygo-esp32.html), [Lilygo vs Heltec](https://sonotrigger-software.blogspot.com/2024/02/lilygo-vs-heltec.html), and [C3 Super Mini](https://sonotrigger-software.blogspot.com/2024/03/c3-super-mini.html).
-* **Learning:** [ESP32 Basic Starter Kit](https://sonotrigger-software.blogspot.com/2024/04/esp32-basic-starter-kit.html), [Arduino Blocks](https://sonotrigger-software.blogspot.com/2024/01/arduino-blocks.html), and [Python Language](https://sonotrigger-software.blogspot.com/2023/11/lenguaje-python.html).
+* **Learning:** [ESP32 Basic Starter Kit](https://sonotrigger-software.blogspot.com/2024/04/esp32-basic-starter-kit.html), [Arduino Blocks](https://sonotrigger-software.blogspot.com/2024/01/arduino-blocks.html), and [Python Programming](https://sonotrigger-software.blogspot.com/2023/11/lenguaje-python.html).
 
 ### SI5351 Clock Generator
 * [First Steps with SI5351](https://sonotrigger-software.blogspot.com/2024/01/si5351-primeros-pasos.html)
 * [Morse Keyer (Manipulador)](https://sonotrigger-software.blogspot.com/2024/01/manipulador-morse.html)
 * [GPS Beacon](https://sonotrigger-software.blogspot.com/2024/01/baliza-gps.html)
-* [ESP32 + SI5351 Projects](https://sonotrigger-software.blogspot.com/search/label/ESP32%2BSI5351)
 
 ---
 
