@@ -1,6 +1,6 @@
 # SONOTRIGGER-SOFTWARE and EA5JTT Blogs Index
 
-Comprehensive index of technical articles and radiofrequency research.
+Comprehensive index of technical articles, projects, and radiofrequency research from the [SONOTRIGGER-SOFTWARE](https://sonotrigger-software.blogspot.com/) and [EA5JTT](https://ea5jtt.blogspot.com/) blogs.
 
 > [!IMPORTANT]
 > All software developments and source code can be found at:
@@ -12,7 +12,7 @@ Comprehensive index of technical articles and radiofrequency research.
 
 ### Active Components
 * **RX Amplifiers (Low Noise - LNA):**
-  * [Reception Preamps / LNA](https://sonotrigger-software.blogspot.com/2023/09/preamplificadores-apra-sdr-basados-en.html)
+  * [Reception Preamps / LNA (SPF5189Z)](https://sonotrigger-software.blogspot.com/2023/09/preamplificadores-apra-sdr-basados-en.html)
   * [RF AMP (LNA)](https://sonotrigger-software.blogspot.com/2023/10/amplificadores-de-rf-lna.html)
   * [RF AMP02A](https://sonotrigger-software.blogspot.com/2023/12/rf-amp02a.html)
   * [TQP3M9037 LNA - RF AMP 04A](https://sonotrigger-software.blogspot.com/2024/02/tqp3m9037-lna-rf-amp-04a.html)
@@ -21,16 +21,16 @@ Comprehensive index of technical articles and radiofrequency research.
   * [Linear / Power Amplifiers](https://sonotrigger-software.blogspot.com/2024/01/amplificadores-lineales-o-de-potencia.html)
 * **Frequency Converters:**
   * [Frequency Converters](https://sonotrigger-software.blogspot.com/2023/10/conversores-de-frecuencia.html)
-  * [SPYVERTER](https://sonotrigger-software.blogspot.com/2024/08/probando-un-up-converter-spyverter.html)
+  * [SPYVERTER (Testing)](https://sonotrigger-software.blogspot.com/2024/08/probando-un-up-converter-spyverter.html)
 
 ### Passive Components
-* **Filters:** [Stub Filters](https://sonotrigger-software.blogspot.com/2023/10/filtros-con-stub.html), [RF Filters](https://sonotrigger-software.blogspot.com/2023/10/filtros-de-rf.html), and [868 MHz Band-Pass Filters](https://sonotrigger-software.blogspot.com/2024/02/filtros-pasa-banda-y-amplificadores-de.html).
-* **RF Tools:** [RF Attenuators](https://sonotrigger-software.blogspot.com/2023/10/atenuadores-de-radiofrecuencia.html), [Duplexer - Diplexer](https://sonotrigger-software.blogspot.com/2023/11/duplexor-diplexor-vhf-uhf.html), and [RF Power Splitter](https://sonotrigger-software.blogspot.com/2023/11/divisor-de-potencia-de-rf-splitter.html).
+* **Filters:** [Stub Filters](https://sonotrigger-software.blogspot.com/2023/10/filtros-con-stub.html), [RF Filters](https://sonotrigger-software.blogspot.com/2023/10/filtros-de-rf.html), and [868 MHz Band-Pass Filters + LNA](https://sonotrigger-software.blogspot.com/2024/02/filtros-pasa-banda-y-amplificadores-de.html).
+* **RF Tools:** [RF Attenuators](https://sonotrigger-software.blogspot.com/2023/10/atenuadores-de-radiofrecuencia.html), [Duplexer - Diplexer (VHF-UHF)](https://sonotrigger-software.blogspot.com/2023/11/duplexor-diplexor-vhf-uhf.html), and [RF Power Splitter](https://sonotrigger-software.blogspot.com/2023/11/divisor-de-potencia-de-rf-splitter.html).
 
 ### Connectivity & Power
 * **Connectors:** [USB](https://sonotrigger-software.blogspot.com/2023/10/usb.html), [SMA, IPX & JST](https://sonotrigger-software.blogspot.com/2023/10/conectores-sma-ipx-y-jst.html), and [TV, F, N, BNC, UHF Connectors](https://sonotrigger-software.blogspot.com/2023/12/conectores-tv-f-n-bnc-uhfpl259so239-sma.html).
 * **RF Lines:** [Lightning Protection](https://sonotrigger-software.blogspot.com/2024/01/protectores-contra-descargas.html), [Feed Lines](https://sonotrigger-software.blogspot.com/2024/01/lineas-de-alimentacion-de-rf.html), [Ferrites](https://sonotrigger-software.blogspot.com/2023/12/ferritas-en-cables-de-alimentacion.html), and [Coaxial Cables](https://sonotrigger-software.blogspot.com/2023/10/cables-coaxiales.html).
-* **Powering:** [PSU & Chargers](https://sonotrigger-software.blogspot.com/2023/10/fuentes-de-alimentacion-y-cargadores.html), [Batteries](https://sonotrigger-software.blogspot.com/2023/10/baterias-salinas-alcalinas-y-de-li-ion.html), [Bias-Tee](https://sonotrigger-software.blogspot.com/2023/10/bias-tee.html), [PoE](https://sonotrigger-software.blogspot.com/2023/11/poe.html), and [UPS/SAI](https://sonotrigger-software.blogspot.com/2024/01/sai.html).
+* **Powering:** [PSU & Chargers](https://sonotrigger-software.blogspot.com/2023/10/fuentes-de-alimentacion-y-cargadores.html), [Batteries (Li-ion/Alkaline)](https://sonotrigger-software.blogspot.com/2023/10/baterias-salinas-alcalinas-y-de-li-ion.html), [Bias-Tee](https://sonotrigger-software.blogspot.com/2023/10/bias-tee.html), [PoE](https://sonotrigger-software.blogspot.com/2023/11/poe.html), and [UPS/SAI](https://sonotrigger-software.blogspot.com/2024/01/sai.html).
 
 ---
 
@@ -51,9 +51,9 @@ Comprehensive index of technical articles and radiofrequency research.
 
 ### ATS-mini (SI4732)
 * [First Steps](https://sonotrigger-software.blogspot.com/2023/11/ats-mini-primeros-pasos.html)
-* [Deep Dive](https://sonotrigger-software.blogspot.com/2023/11/ats-mini-profundizando.html)
+* [Deep Dive / Deepening](https://sonotrigger-software.blogspot.com/2023/11/ats-mini-profundizando.html)
 * [Remote Control](https://sonotrigger-software.blogspot.com/2024/04/ats-mini-control-remoto.html)
-* [ATS-mini SI4732: WSPR RX Standalone](https://sonotrigger-software.blogspot.com/2024/01/ats-mini-si4732-wspr-rx-standalone.html)
+* [WSPR RX Standalone](https://sonotrigger-software.blogspot.com/2024/01/ats-mini-si4732-wspr-rx-standalone.html)
 
 ---
 
@@ -66,6 +66,8 @@ Comprehensive index of technical articles and radiofrequency research.
 * [TinyGS](https://sonotrigger-software.blogspot.com/2024/01/tinygs.html)
 * [Lilygo ESP32 Projects](https://sonotrigger-software.blogspot.com/2024/02/proyectos-con-lilygo-esp32.html)
 * [ESP32 Basic Starter Kit](https://sonotrigger-software.blogspot.com/2024/04/esp32-basic-starter-kit.html)
+* [Arduino Blocks](https://sonotrigger-software.blogspot.com/2024/01/arduino-blocks.html)
+* [Python Programming](https://sonotrigger-software.blogspot.com/2023/11/lenguaje-python.html)
 
 ### SI5351 Clock Generator
 * [First Steps with SI5351](https://sonotrigger-software.blogspot.com/2024/01/si5351-primeros-pasos.html)
@@ -82,6 +84,7 @@ Comprehensive index of technical articles and radiofrequency research.
 * **Specialized:** [Ferrite Antennas](https://sonotrigger-software.blogspot.com/2024/02/antena-de-ferrita.html), [Log-periodic](https://sonotrigger-software.blogspot.com/2024/04/log-periodic.html), [YouLoop](https://sonotrigger-software.blogspot.com/2024/02/youloop.html), and [FLR-9 Elephant Cage](https://sonotrigger-software.blogspot.com/2024/04/flr-9.html).
 
 ### Matching & Theory
+* [Antenna Analyzers](https://sonotrigger-software.blogspot.com/2023/10/analizador-de-antenas.html)
 * [Balun & UnUn (9:1 / 49:1)](https://sonotrigger-software.blogspot.com/2023/11/balun-unun.html)
 * [Toroids & Ferrites](https://sonotrigger-software.blogspot.com/2023/12/toroides-de-ferrita.html)
 * [Antenna Insulators](https://sonotrigger-software.blogspot.com/2024/01/aisladores-para-antenas.html)
@@ -90,13 +93,13 @@ Comprehensive index of technical articles and radiofrequency research.
 ---
 
 ## 🌊 Propagation & Satellites
-* **Simulation:** [SPLAT!](https://sonotrigger-software.blogspot.com/2024/04/splat.html), [Proppy](https://sonotrigger-software.blogspot.com/2024/01/proppy.html), [PSKreporter](https://sonotrigger-software.blogspot.com/2023/11/pskreporter.html), and [HAMCLOCK](https://sonotrigger-software.blogspot.com/2024/01/hamclock.html).
+* **Simulation & Tracking:** [SPLAT!](https://sonotrigger-software.blogspot.com/2024/04/splat.html), [Proppy](https://sonotrigger-software.blogspot.com/2024/01/proppy.html), [PSKreporter](https://sonotrigger-software.blogspot.com/2023/11/pskreporter.html), and [HAMCLOCK](https://sonotrigger-software.blogspot.com/2024/01/hamclock.html).
 * **Satellite Networks:** [SATNOGS](https://sonotrigger-software.blogspot.com/2023/11/satnogs.html), [QO-100](https://sonotrigger-software.blogspot.com/2024/03/qo-100.html), and [AERO & Safety-Net](https://sonotrigger-software.blogspot.com/2024/02/aero.html).
 
 ---
 
 ## 🛰️ Radio Beacons & Digital Modes
-* **WSPR:** [Zachtek Transmitter](https://sonotrigger-software.blogspot.com/2024/03/zachtek.html), [WsprDaemon](https://sonotrigger-software.blogspot.com/2024/03/wsprdaemon.html), and [DIY WSPR Beacons](https://sonotrigger-software.blogspot.com/2024/01/baliza-wspr.html).
+* **WSPR:** [Zachtek](https://sonotrigger-software.blogspot.com/2024/03/zachtek.html), [WsprDaemon](https://sonotrigger-software.blogspot.com/2024/03/wsprdaemon.html), and DIY [WSPR Beacons](https://sonotrigger-software.blogspot.com/2024/01/baliza-wspr.html).
 * **Modes:** [FT8 / FT4](https://sonotrigger-software.blogspot.com/2024/01/ft8-ft4.html), [JS8CALL](https://sonotrigger-software.blogspot.com/2024/01/js8call.html), [RTTY](https://sonotrigger-software.blogspot.com/2024/01/rtty.html), and [SSTV](https://sonotrigger-software.blogspot.com/2024/03/sstv.html).
 * **Morse:** [Morse Decoders](https://sonotrigger-software.blogspot.com/2023/11/decodificadores-morse.html), [CW Beacons](https://sonotrigger-software.blogspot.com/2024/01/balizas-cw.html), and [LCWO/FAV22](https://sonotrigger-software.blogspot.com/2024/03/lcwo-y-fav22.html).
 * **Radiosondes:** [Weather Balloon Radiosondes](https://sonotrigger-software.blogspot.com/2024/04/radiosondas.html) and [MySondy Go](https://sonotrigger-software.blogspot.com/2024/04/mysondy-go.html).
@@ -107,10 +110,15 @@ Comprehensive index of technical articles and radiofrequency research.
 * **Radio Stations:** [RNE (Radio Exterior)](https://sonotrigger-software.blogspot.com/2023/10/rne.html), [UVB-76 (The Buzzer)](https://sonotrigger-software.blogspot.com/2023/10/uvb-76.html), [Polar Stations](https://sonotrigger-software.blogspot.com/2023/12/estaciones-polares.html), and [Time/Signal Stations](https://sonotrigger-software.blogspot.com/2023/11/emisoras-de-senales-y-tiempo.html).
 * **Educational (Learning Units):**
   * [Aerospace Science with TinyGS](https://sonotrigger-software.blogspot.com/2024/11/unidades-didacticas.html)
-  * [Arduino & ESP32 Programming](https://sonotrigger-software.blogspot.com/2024/11/unidades-didacticas.html)
-* **Workshops & Talks:**
-  * [TinyGS, WSPR, and ATSmini Workshops](https://sonotrigger-software.blogspot.com/2024/11/charlas-y-talleres.html)
+  * [Programming Microprocessors with ESP32](https://sonotrigger-software.blogspot.com/2024/11/unidades-didacticas.html)
+* **Talks & Workshops:**
+  * [TinyGS @ EA5RKP](https://sonotrigger-software.blogspot.com/2024/11/charlas-y-talleres.html)
+  * [WSPR @ Net Tecnología](https://sonotrigger-software.blogspot.com/2024/11/charlas-y-talleres.html)
+  * [ATSmini / LoRa / CW Workshops](https://sonotrigger-software.blogspot.com/2024/11/charlas-y-talleres.html)
 * **Summaries:** [2023 Summary](https://sonotrigger-software.blogspot.com/2023/12/resumen-2023.html), [2024 Summary](https://sonotrigger-software.blogspot.com/2024/04/resumen-2024.html), and [Learning in 2025](https://sonotrigger-software.blogspot.com/2025/01/resumen-2025.html).
+
+---
+*Index updated - 2025.*y](https://sonotrigger-software.blogspot.com/2024/04/resumen-2024.html), and [Learning in 2025](https://sonotrigger-software.blogspot.com/2025/01/resumen-2025.html).
 
 ---
 *Index updated for 2025.*
