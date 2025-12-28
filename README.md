@@ -1,6 +1,6 @@
 # SONOTRIGGER-SOFTWARE and EA5JTT Blogs Index
 
-Complete index of technical articles, projects, and radiofrequency research from the [SONOTRIGGER-SOFTWARE](https://sonotrigger-software.blogspot.com/) and [EA5JTT](https://ea5jtt.blogspot.com/) blogs.
+Comprehensive index of technical articles, projects, and radiofrequency research from the [SONOTRIGGER-SOFTWARE](https://sonotrigger-software.blogspot.com/) and [EA5JTT](https://ea5jtt.blogspot.com/) blogs.
 
 > [!IMPORTANT]
 > All software developments and source code can be found at:
@@ -21,7 +21,7 @@ Complete index of technical articles, projects, and radiofrequency research from
   * [Linear / Power Amplifiers](https://sonotrigger-software.blogspot.com/2024/01/amplificadores-lineales-o-de-potencia.html)
 * **Frequency Converters:**
   * [Frequency Converters](https://sonotrigger-software.blogspot.com/2023/10/conversores-de-frecuencia.html)
-  * [SPYVERTER](https://sonotrigger-software.blogspot.com/2023/10/spyverter.html)
+  * [SPYVERTER](https://sonotrigger-software.blogspot.com/2024/08/probando-un-up-converter-spyverter.html)
 
 ### Passive Components
 * **Filters:** [Stub Filters](https://sonotrigger-software.blogspot.com/2023/10/filtros-con-stub.html), [RF Filters](https://sonotrigger-software.blogspot.com/2023/10/filtros-de-rf.html), and [868 MHz Filters + LNA](https://sonotrigger-software.blogspot.com/2024/02/filtros-pasa-banda-y-amplificadores-de.html).
@@ -65,7 +65,6 @@ Complete index of technical articles, projects, and radiofrequency research from
 * [First Steps with SI5351](https://sonotrigger-software.blogspot.com/2024/01/si5351-primeros-pasos.html)
 * [Morse Keyer (Manipulador)](https://sonotrigger-software.blogspot.com/2024/01/manipulador-morse.html)
 * [GPS Beacon](https://sonotrigger-software.blogspot.com/2024/01/baliza-gps.html)
-* [ESP32 + SI5351 Projects](https://sonotrigger-software.blogspot.com/search/label/ESP32%2BSI5351)
 
 ---
 
@@ -105,4 +104,4 @@ Complete index of technical articles, projects, and radiofrequency research from
 * **Summaries:** [2023 Summary](https://sonotrigger-software.blogspot.com/2023/12/resumen-2023.html), [2024 Summary](https://sonotrigger-software.blogspot.com/2024/04/resumen-2024.html), and [Learning in 2025](https://sonotrigger-software.blogspot.com/2025/01/resumen-2025.html).
 
 ---
-*Index valid for the year 2025.*
+*Index updated for GitHub - 2025.*
