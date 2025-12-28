@@ -128,11 +128,64 @@ Comprehensive technical index of projects, radiofrequency research, and hardware
 
 ---
 
-## 📡 Antennas
-* [Antenna Analyzer](https://sonotrigger-software.blogspot.com/2025/01/analizador-de-antenas.html)
-* **Active Antennas:** [Mini-Whip](https://sonotrigger-software.blogspot.com/2023/10/mini-whip-antena-de-latigo-mini.html) | [HF Active Antennas Comparison](https://sonotrigger-software.blogspot.com/2024/01/antenas-miniwhip-de-aliexpress-pa0rdt.html) | [Performance Measurement](https://sonotrigger-software.blogspot.com/2024/01/antenas-miniwhip-de-aliexpress-pa0rdt_17.html)
-* **Wire Antennas:** [J-Pole Vertical](https://sonotrigger-software.blogspot.com/2024/03/antenas-verticales.html) | [Turnstile (Satellite)](https://sonotrigger-software.blogspot.com/2024/04/antena-de-torniquete-para-satelites.html) | [EFHW (End Fed Half Wave)](https://sonotrigger-software.blogspot.com/2024/05/antena-de-media-onda-alimentada-por-su.html)
+---
 
+## 📡 Antennas (The Passion)
+* [Antenna Analyzer](https://sonotrigger-software.blogspot.com/2025/01/analizador-de-antenas.html)
+* **Active Antennas:** * [Mini-Whip](https://sonotrigger-software.blogspot.com/2023/10/mini-whip-antena-de-latigo-mini.html) | [HF Active Antennas Comparison](https://sonotrigger-software.blogspot.com/2024/01/antenas-miniwhip-de-aliexpress-pa0rdt.html) | [Performance Measurement](https://sonotrigger-software.blogspot.com/2024/01/antenas-miniwhip-de-aliexpress-pa0rdt_17.html)
+* **Wire & Vertical Antennas:**
+    * [J-Pole Vertical](https://sonotrigger-software.blogspot.com/2024/03/antenas-verticales.html) | [EFHW (End Fed Half Wave)](https://sonotrigger-software.blogspot.com/2024/05/antena-de-media-onda-alimentada-por-su.html) | [Very Long Wire Antennas](https://sonotrigger-software.blogspot.com/2024/07/antenas-de-hilo-muy-largo.html)
+    * [Simple & Multiple Dipoles](https://sonotrigger-software.blogspot.com/2024/07/dipolos.html) | [OCFD (Off-Center-Fed Dipole)](https://sonotrigger-software.blogspot.com/2025/08/off-center-fed-dipole-ocfd-dipolo-de.html) | [Windom Antenna (Carolina)](https://sonotrigger-software.blogspot.com/2025/08/windom-antenna-carolina-version.html)
+* **Specialized Designs:**
+    * [Turnstile (Satellite)](https://sonotrigger-software.blogspot.com/2024/04/antena-de-torniquete-para-satelites.html) | [Discone](https://sonotrigger-software.blogspot.com/2024/09/antena-discone.html) | [Ferrite Antenna (Compact)](https://sonotrigger-software.blogspot.com/2023/11/antens-de-ferrita.html)
+    * [Log-Periodic (Directional >150MHz)](https://sonotrigger-software.blogspot.com/2023/12/antena-logaritmo-periodica.html) | [Beverage / Long Wire with Tuner](https://sonotrigger-software.blogspot.com/2023/12/antena-de-hilo-largo-o-antena-beverage.html)
+    * [Low Profile Antennas (ELPA/NVIS)](https://sonotrigger-software.blogspot.com/2024/12/antenas-de-perfil-bajo-elpa-eyring-low.html) | [Do they work?](https://sonotrigger-software.blogspot.com/2025/07/funcionan-las-antenas-de-perfil-bajo.html)
+* **Loop Antennas:** [Youtwin](https://sonotrigger-software.blogspot.com/2025/01/antena-en-bucle-youtwin.html) | [DL2 KQ](https://sonotrigger-software.blogspot.com/2025/01/antenas-de-bucle-por-dl2-kq.html) | [YouLoop](https://sonotrigger-software.blogspot.com/2023/10/youloop-antena-magnetica.html)
+* **Elephant Cage Antennas:** [FLR-9](https://sonotrigger-software.blogspot.com/2025/05/antena-de-jaula-para-elefantes-flr-9.html) | [FRD-10](https://sonotrigger-software.blogspot.com/2025/05/antena-de-jaula-para-elefantes-frd-10.html)
+* **RF Matching & Components:**
+    * [Impedance Transformers (BalUn, BalBal, UnUn)](https://sonotrigger-software.blogspot.com/2024/05/transformador-de-impedancias.html)
+    * [End-Fed: UnUn 9:1 vs 49:1](https://sonotrigger-software.blogspot.com/2025/07/end-fed-con-unun-9-1-o-con-491.html) | [The Right Balun for each Antenna](https://sonotrigger-software.blogspot.com/2025/07/cada-antena-tiene-su-balun-o-unun.html)
+    * [RF Resistors](https://sonotrigger-software.blogspot.com/2024/07/resistencias-para-rf.html) | [Ferrite Toroids Buying Guide](https://sonotrigger-software.blogspot.com/2024/07/toroides-de-ferrita-guia-de-compra.html) | [Signal Phasers](https://sonotrigger-software.blogspot.com/2024/10/desfase-de-senales-90.html)
+
+---
+
+## 🌊 Propagation
+* **Models & Tools:** [SPLAT! Signal Server](https://sonotrigger-software.blogspot.com/2025/01/modelos-de-propagacion-vhf-y-uhf-splat.html) | [Proppy](https://sonotrigger-software.blogspot.com/2025/05/proppy.html) | [PSKreporter](https://sonotrigger-software.blogspot.com/2025/08/pskreporter.html) | [VOACAP](https://sonotrigger-software.blogspot.com/2025/11/voacap.html)
+* **Phenomena:** * [Long Delayed Echoes (LDE)](https://sonotrigger-software.blogspot.com/2025/08/ecos-en-radiocomunicaciones-por.html) | [Geomagnetic Index Kp](https://sonotrigger-software.blogspot.com/2025/08/indice-geomagnetico-kp.html) | [SNR: Signal to Noise Ratio](https://sonotrigger-software.blogspot.com/2025/09/snr-relacion-senal-ruido.html)
+    * [Solar Storms study with WSPR](https://sonotrigger-software.blogspot.com/2025/12/wspr-para-el-estudio-de-los-efectos-de.html) | [Gray Line DX](https://sonotrigger-software.blogspot.com/2025/07/el-dx-y-la-linea-de-penumbra.html)
+* **Polar & Tropical Propagation:** [Polar Regions](https://sonotrigger-software.blogspot.com/2025/08/propagacion-ionosferica-en-los-polos.html) | [Tropics](https://sonotrigger-software.blogspot.com/2025/08/propagacion-ionosferica-en-los-tropicos.html)
+
+---
+
+## 🛰️ Satellites
+* [Satellite Signal Reception Guide](https://sonotrigger-software.blogspot.com/2024/01/recepcion-de-senales-via-satelite.html)
+* [TinyGS (LoRa Satellites)](https://sonotrigger-software.blogspot.com/2024/10/esp32-lora-for-dummys-tinygs.html) | [SATNOGS](https://sonotrigger-software.blogspot.com/2024/08/satnogs-de-libre-space-foundation.html)
+* [QO-100 Geostationary Satellite](https://sonotrigger-software.blogspot.com/2025/02/satelites-para-radioafcionados-qo-100.html) | [Low-cost QO100 RX Station](https://sonotrigger-software.blogspot.com/2025/02/qo-100-estacion-terrena-receptora-de.html)
+* [AERO & Safety-Net](https://sonotrigger-software.blogspot.com/2025/03/blog-post.html) | [CanSat](https://sonotrigger-software.blogspot.com/2025/04/cansat.html) | [SIDLOC](https://sonotrigger-software.blogspot.com/2025/05/sidloc.html)
+
+---
+
+## 🧪 Technical "Potpourri" & State of the Art
+* **Systems:** [LTE](https://sonotrigger-software.blogspot.com/2024/01/lte-long-term-evolution.html) | [ACARS](https://sonotrigger-software.blogspot.com/2024/03/acars.html) | [DRM](https://sonotrigger-software.blogspot.com/2024/03/acars.html) | [SSTV](https://sonotrigger-software.blogspot.com/2024/06/slow-scan-television-sstv.html) | [DSC](https://sonotrigger-software.blogspot.com/2024/07/dsc-digital-selective-calling.html)
+* **History & Stations:** [RNE Exterior (Spain)](https://sonotrigger-software.blogspot.com/2025/05/rne-radio-nacional-de-espana-radio.html) | [NDB Beacons](https://sonotrigger-software.blogspot.com/2025/05/ndb-non-directional-beacon-balizas-no.html) | [UVB-76 The Buzzer (Case Study)](https://sonotrigger-software.blogspot.com/2025/08/el-extrao-caso-de-la-emisora-uvb-76.html)
+* **Nature & Engineering:** [Cosmic Radiation on Electronics](https://sonotrigger-software.blogspot.com/2024/05/efectos-de-la-radiacion-cosmica-sobre.html) | [Weather Radars](https://sonotrigger-software.blogspot.com/2024/04/radares-meteorologicos.html) | [HAARP](https://sonotrigger-software.blogspot.com/2024/04/haarp-high-frequency-active-auroral.html)
+* **Utilities:** [X-Phase QRM Eliminator](https://sonotrigger-software.blogspot.com/2024/01/elimininador-de-interferecnias-ruido.html) | [TASMOTA (Open Source IoT)](https://sonotrigger-software.blogspot.com/2024/12/tasmota-es-una-solucion-open-source-que.html) | [V16 Emergency Beacon](https://sonotrigger-software.blogspot.com/2025/11/baliza-v16-de-emergencia-geolocalizable.html)
+
+---
+
+## 🎈 Radiosondes & Weather Balloons
+* [Radiotelemetry in Balloons](https://sonotrigger-software.blogspot.com/2025/11/radiotelemetria-en-globos-sondas.html) | [WSPR in Balloons](https://sonotrigger-software.blogspot.com/2025/08/globos-con-wspr.html)
+* **Software:** [rdzTTGOsonde](https://sonotrigger-software.blogspot.com/2025/03/globos-sondas-radiosondas.html) | [MySondy Go](https://sonotrigger-software.blogspot.com/2025/06/globos-sondas-radiosondas.html)
+* [HYSPLIT (Trajectory Calculation)](https://sonotrigger-software.blogspot.com/2025/08/trayectoria-de-globos-sondas.html)
+
+---
+
+## 🏛️ Radio History
+* **Pioneers:** [Juan Garcia Castillejo](https://sonotrigger-software.blogspot.com/2024/03/juan-garcia-castillejo-divulgador-e.html) | [Julio Baviera Cervera](https://sonotrigger-software.blogspot.com/2024/03/julio-cervera-baviera.html)
+* [History of FM](https://sonotrigger-software.blogspot.com/2024/06/la-fm.html) | [Variotransformers](https://sonotrigger-software.blogspot.com/2024/05/los-variotransformadores.html) | [Quindar Tones](https://sonotrigger-software.blogspot.com/2024/08/tono-quindas-quindar-tones.html)
+
+---
+*Generated based on the technical blogs of sonotrigger-software.blogspot.com*
 ---
 *Index updated 2025.*
 
