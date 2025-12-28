@@ -180,17 +180,50 @@ Comprehensive technical index of projects, radiofrequency research, and hardware
 
 ---
 
-## 🏛️ Radio History
-* **Pioneers:** [Juan Garcia Castillejo](https://sonotrigger-software.blogspot.com/2024/03/juan-garcia-castillejo-divulgador-e.html) | [Julio Baviera Cervera](https://sonotrigger-software.blogspot.com/2024/03/julio-cervera-baviera.html)
-* [History of FM](https://sonotrigger-software.blogspot.com/2024/06/la-fm.html) | [Variotransformers](https://sonotrigger-software.blogspot.com/2024/05/los-variotransformadores.html) | [Quindar Tones](https://sonotrigger-software.blogspot.com/2024/08/tono-quindas-quindar-tones.html)
+---
+
+## 🏛️ History of Radio
+* **Pioneers:** [Juan García Castillejo](https://sonotrigger-software.blogspot.com/2024/03/juan-garcia-castillejo-divulgador-e.html) | [Julio Cervera Baviera](https://sonotrigger-software.blogspot.com/2024/03/julio-cervera-baviera.html)
+* **Milestones:** [History of FM](https://sonotrigger-software.blogspot.com/2024/06/la-fm.html) | [Variotransformers](https://sonotrigger-software.blogspot.com/2024/05/los-variotransformadores.html) | [Quindar Tones (Apollo Missions)](https://sonotrigger-software.blogspot.com/2024/08/tono-quindas-quindar-tones.html) | [International Reply Coupons (IRC)](https://sonotrigger-software.blogspot.com/2024/08/los-cri-cupon-de-respuesta-internacional.html)
+
+---
+
+## 🎙️ Ham Radio (Radioafición)
+* **Getting Started:** [How to start in Ham Radio](https://sonotrigger-software.blogspot.com/2025/12/iniciarse-en-la-radioaficion.html) | [IARUMS](https://sonotrigger-software.blogspot.com/2024/04/monitoring-system-iarums.html) | [EMI/EMC Compatibility](https://sonotrigger-software.blogspot.com/2024/04/compatibilidad-electromagnetica-cem.html)
+* **Operating:** [QTH Locator](https://sonotrigger-software.blogspot.com/2024/12/qth-locator.html) | [Contests & Diplomas](https://sonotrigger-software.blogspot.com/2024/05/concursos-y-diplomas-de.html)
+* **Radiolinks:** [Peanut](https://sonotrigger-software.blogspot.com/2024/12/peanut.html) | [ZMR (Zello)](https://sonotrigger-software.blogspot.com/2024/12/zmr-zello-mobile-radio.html) | [Mumble](https://sonotrigger-software.blogspot.com/2024/12/mumla-mumble.html) | [Droidstar](https://sonotrigger-software.blogspot.com/2024/12/droidstar.html) | [AllStarLink](https://sonotrigger-software.blogspot.com/2024/03/allstarlink.html)
+* **DMR & OpenGD77:** [I - Equipment](https://sonotrigger-software.blogspot.com/2025/03/opengd77-dmr-para-radioaficionados-i.html) | [II - Installation](https://sonotrigger-software.blogspot.com/2025/03/opengd77-dmr-para-radioaficionados-ii.html) | [III - Operation](https://sonotrigger-software.blogspot.com/2025/03/opengd77-dmr-para-radioaficionados-iii.html)
+
+### 📡 Digital Protocols
+* **Deep Dive into WSPR:** * [Zachtek Transmitters](https://sonotrigger-software.blogspot.com/2025/05/wspr-transmitter-de-zachtek.html) | [OpenWSPR Receiver](https://sonotrigger-software.blogspot.com/2025/06/openwspr-receiver.html) | [WSPR on Raspberry Pi](https://sonotrigger-software.blogspot.com/2025/05/wspr-sobre-raspberry.html)
+    * [Advanced SQL Queries for WSPRnet](https://sonotrigger-software.blogspot.com/2025/08/consultas-personalizadas-de-wsprnet.html) | [WSPR Telemetry](https://sonotrigger-software.blogspot.com/2025/08/telemetria-wspr.html)
+* **Other Modes:** [FT4/FT8](https://sonotrigger-software.blogspot.com/2024/01/ft8.html) | [RTTY](https://sonotrigger-software.blogspot.com/2024/07/rtty-en-bandas-de-radioaficionados.html) | [FAX/Radiofax](https://sonotrigger-software.blogspot.com/2024/06/fax-radio-fax-y-wfax.html) | [M17](https://sonotrigger-software.blogspot.com/2024/08/m17.html) | [VARAC](https://sonotrigger-software.blogspot.com/2025/09/varac.html) | [Opera](https://sonotrigger-software.blogspot.com/2025/10/el-protocolo-de-radiocomunicacion-opera.html) | [QRSS](https://sonotrigger-software.blogspot.com/2025/12/qrss.html)
+
+### 📻 Equipment & Morse
+* **Hardware:** [Yaesu FT-101-ZD](https://sonotrigger-software.blogspot.com/2025/01/yaesu-ft-101-zd.html) | [uSDX](https://sonotrigger-software.blogspot.com/2024/02/usdx.html) | [Xiegu X6200](https://sonotrigger-software.blogspot.com/2025/09/xiegu-x6200.html) | [DAB/DAB+ Receivers](https://sonotrigger-software.blogspot.com/2024/02/receptores-dab.html)
+* **Morse Code:** [CW Language](https://sonotrigger-software.blogspot.com/2024/01/emisiones-en-cw.html) | [Learning Tools (LCWO/FAV22)](https://sonotrigger-software.blogspot.com/2024/02/estudio-del-alfabeto-morse.html) | [Morse in Music](https://sonotrigger-software.blogspot.com/2025/01/codigo-morse-en-la-musica.html)
+* **Self-Built Beacons:** [CW Beacon (ESP32)](https://sonotrigger-software.blogspot.com/2025/09/cw-tx-beacon-esp32-si5351.html) | [WSPR Beacon (NTP/GPS)](https://sonotrigger-software.blogspot.com/2025/09/wspr-tx-beacon-esp32-si5351-version-ntp.html) | [Multi-protocol Beacons](https://sonotrigger-software.blogspot.com/2025/09/algunas-consideraciones-sobre-el.html)
+
+---
+
+## 🎓 Learning & Community
+* **Education:** [Aerospace science with TinyGS](https://sonotrigger-software.blogspot.com/2024/10/esp32-lora-for-dummys-tinygs_18.html) | [Arduino/ESP32 Programming](https://sonotrigger-software.blogspot.com/2024/10/esp32-basic-starter-kit-for-dummys-iii.html)
+* **Workshops & Talks:** Hosted at [Radioclub UPV (EA5RKP)](https://www.upv.es/entidades/RCLUB/) on topics like TinyGS, WSPR, LoRa, and SDR.
+* **Confirmations:** [The art of QSL Cards](https://sonotrigger-software.blogspot.com/2024/04/qsl-el-acuse-de-recepcion.html) | [SWL (Shortwave Listening)](https://sonotrigger-software.blogspot.com/2025/06/radioescucha-swl.html)
+
+---
+
+## 📅 Yearly Summaries (My SDR Journey)
+* [Experience & Learning 2023](https://ea5jtt.blogspot.com/2025/12/lo-que-he-aprendido-este-ano-resumen-de.html)
+* [Experience & Learning 2024](https://sonotrigger-software.blogspot.com/2024/12/mi-experiencia-con-la-sdr-y-mas-en-2024.html)
+* [Experience & Learning 2025](https://ea5jtt.blogspot.com/2025/12/lo-que-he-aprendido-este-ano-resumen-de.html)
+
+---
+### 💻 Software Repositories
+Find all my code developments at: [github.com/joanpao](https://github.com/joanpao)
 
 ---
 *Generated based on the technical blogs of sonotrigger-software.blogspot.com*
 ---
 *Index updated 2025.*
 
-[2023] (https://ea5jtt.blogspot.com/2023/12/mi-experiencia-con-la-sdr-en-2023.html)
-
-[2024] (https://ea5jtt.blogspot.com/2024/12/mi-experiencia-con-la-sdr-y-mas-en-2024.html)
-
-[2025] (https://ea5jtt.blogspot.com/2025/12/lo-que-he-aprendido-este-ano-resumen-de.html)
