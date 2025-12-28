@@ -1,13 +1,6 @@
 # SONOTRIGGER-SOFTWARE and EA5JTT Blogs Index
 
 Comprehensive index of technical articles, projects, and radiofrequency research from the [SONOTRIGGER-SOFTWARE](https://sonotrigger-software.blogspot.com/) and [EA5JTT](https://ea5jtt.blogspot.com/) blogs.
-# SONOTRIGGER-SOFTWARE and EA5JTT Blogs Index
-
-Comprehensive technical index of projects, radiofrequency research, and hardware development.
-
-> [!IMPORTANT]
-> All software developments and source code can be found at:
-> 👉 **[joanpao GitHub Repository](https://github.com/joanpao)**
 
 ---
 
